@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm AbdelrahmanMohamed</h1>
 <h3 align="center">I am a Software Engineer, interested in Mobile development.</h3>
 
