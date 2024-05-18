@@ -2,7 +2,7 @@
 <h3 align="center">I am a Software Engineer, interested in Mobile development.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanmohamed-m&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanmohamed-m" /> </p>
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Android** and **ASP.NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
