@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanmohamed-m&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanmohamed-m" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmanmohamed-m" alt="abdelrahmanmohamed-m" /></a> </p>
-
 - 🌱 I’m currently learning ****Android** ,**ASP.NET** and **Flutter****
 
 - 💬 Ask me about **Clean Archticure ,clean code ,Mobile dev and backend dev**
 
 - 📫 How to reach me **AbdelrahmanMohamed82@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U7kASL-4A1p8wCdT6bE-vrdIZcHKDYSQ/view ,https://drive.google.com/file/d/13xpgY_AeMYVdE7cxo9GFrOgXurJnXmor/view?usp=sharing](https://drive.google.com/file/d/1U7kASL-4A1p8wCdT6bE-vrdIZcHKDYSQ/view ,https://drive.google.com/file/d/13xpgY_AeMYVdE7cxo9GFrOgXurJnXmor/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1U7kASL-4A1p8wCdT6bE-vrdIZcHKDYSQ/view ,https://drive.google.com/file/d/13xpgY_AeMYVdE7cxo9GFrOgXurJnXmor/view?usp=sharing]
+- 
+-  (https://drive.google.com/file/d/1U7kASL-4A1p8wCdT6bE-vrdIZcHKDYSQ/view ,https://drive.google.com/file/d/13xpgY_AeMYVdE7cxo9GFrOgXurJnXmor/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
