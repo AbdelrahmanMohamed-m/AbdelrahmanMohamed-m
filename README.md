@@ -9,9 +9,6 @@
 
 - 📫 How to reach me **AbdelrahmanMohamed82@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U7kASL-4A1p8wCdT6bE-vrdIZcHKDYSQ/view ,https://drive.google.com/file/d/13xpgY_AeMYVdE7cxo9GFrOgXurJnXmor/view?usp=sharing]
-- (https://drive.google.com/file/d/1U7kASL-4A1p8wCdT6bE-vrdIZcHKDYSQ/view ,https://drive.google.com/file/d/13xpgY_AeMYVdE7cxo9GFrOgXurJnXmor/view?usp=sharing)
-
 
 </p>
 
